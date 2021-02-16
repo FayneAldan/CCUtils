@@ -1,0 +1,2 @@
+# CCUtils
+Cookie Clicker Utilities
